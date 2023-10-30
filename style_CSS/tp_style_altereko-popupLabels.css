@@ -1,5 +1,5 @@
 /* popup */
-/* class a retiré dans la boucle du js pour le bouton "nous contacter"  et "nos engagements" */
+/* class à retirer dans la boucle du js pour le bouton "nous contacter"  et "nos engagements" */
 .hiddenLabels {
     display: none;
 }
@@ -23,7 +23,7 @@
 }
 
 #labelCroixCreuse {
-    transform: translate(35.5em, -.5em);
+    transform: translate(40em, -.5em);
     color: var(--marronClair);
 }
 
@@ -35,7 +35,7 @@
 /* position du #croixPleine par dessus le #croixCreuse */
 #labelCroixPleine {
     color: var(--marronClair);
-    transform: translate(34.35em, -.5em);
+    transform: translate(38.85em, -.5em);
 
 }
 /* fin css icones */
